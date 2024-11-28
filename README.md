@@ -21,6 +21,11 @@ Funcionalidades
         Verifica valores ausentes e duplicados.
 
     Cálculo de Métricas de Desempenho:
+
+
+Exemplo de Visualizações
+    1. Gráfico de Linha - Gastos por Mês/Ano
+    2. Gráfico de Linha - Impressões por Mês/Ano
         CTR: (Cliques / Impressões) * 100.
         CPC: Gasto Total / Cliques.
         Resumo agrupado por campanha e por período (mês/ano).
