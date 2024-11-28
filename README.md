@@ -37,6 +37,7 @@ Pré-requisitos
 
 Certifique-se de que os seguintes itens estão instalados:
 
+
     Python 3.7+
     Bibliotecas Python:
         pandas
